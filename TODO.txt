@@ -1,0 +1,2 @@
+Cross check against schematic
+Chip decoupling caps 
